@@ -1,0 +1,11 @@
+TASK
+
+1. New user                         LOGOUT
+2. Login existing user              LOGOUT
+
+METHODS
+1. change password
+2. deposit money
+3. withdraw maney
+4. transfer money
+5. check balance
